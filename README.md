@@ -6,4 +6,4 @@ The task was to gather information on motorsport companies. Used webscrapping in
 The app was [deployed](https://hassannaveed.shinyapps.io/webapp/) in R, but takes too much time to run due to the speed of the hosting servers.
 
 Screenshot:
-![image of example]https://github.com/hassannaveed1997/HackU-1/blob/master/screenshot.png
+![image of example](https://github.com/hassannaveed1997/HackU-1/blob/master/screenshot.png)
